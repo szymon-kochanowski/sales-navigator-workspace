@@ -1,0 +1,256 @@
+[
+  {
+    "id": "lead_mv56uaqp_wxyvr",
+    "name": "Klinika Stomatologiczna DentaMed",
+    "website": "https://dentamed.pl",
+    "address": "ul. Dąbrowskiego 45, 60-842 Poznań",
+    "phone": "+48 61 800 90 90",
+    "googleRating": "4.9 ★ (84 opinie)",
+    "industry": "Stomatologia",
+    "city": "Poznań",
+    "notes": "Nowoczesny gabinet stomatologiczny w centrum Poznania. Bardzo duży ruch pacjentów ze smartfonów.",
+    "status": "Oferta gotowa",
+    "createdAt": "2026-10-12T11:48:04.705Z",
+    "updatedAt": "2026-10-12T11:48:14.487Z",
+    "audit": {
+      "score": 42,
+      "metrics": {
+        "design": 45,
+        "seo": 52,
+        "conversion": 32,
+        "speed": 46
+      },
+      "executiveSummary": "Analiza techniczna kodu witryny Klinika Stomatologiczna DentaMed wykazała ocenę 42/100. Kluczowe wąskie gardła konwersji dotyczą braku optymalizacji pod smartfony oraz braku bezpośredniego wezwania do kontaktu (CTA), co powoduje odpływ potencjalnych klientów z miejscowości Poznań bezpośrednio do konkurencji.",
+      "issues": [
+        {
+          "title": "Brak pływającego przycisku szybkiego kontaktu (Click-to-Call) na telefonach",
+          "severity": "Wysoka",
+          "impact": "Ponad 70% pacjentów szukających stomatologa z nagłym bólem zęba natychmiast wraca do wyszukiwarki, jeśli nie może połączyć się 1 kliknięciem."
+        },
+        {
+          "title": "Brak certyfikatu SSL / Protokół HTTP (Ostrzeżenie o braku bezpieczeństwa)",
+          "severity": "Wysoka",
+          "impact": "Nowoczesne przeglądarki wyświetlają komunikat ostrzegawczy, co obniża zaufanie pacjentów i pozycję w lokalnych wynikach Google."
+        },
+        {
+          "title": "Brak interaktywnego formularza rezerwacji wizyty",
+          "severity": "Średnia",
+          "impact": "Pacjenci przeglądający ofertę wieczorami nie mają możliwości wygodnego zgłoszenia bez konieczności dzwonienia poza godzinami pracy."
+        }
+      ],
+      "missingElements": [
+        "Pływający pasek Click-to-Call na dolnej krawędzi smartfona",
+        "Interaktywny formularz szybkiej rezerwacji terminu / kontaktu",
+        "Sekcja Social Proof z recenzjami pacjentów i oceną Google Maps (4.9★)",
+        "Strukturalne dane Schema.org (LocalBusiness) dla wyszukiwarki Google",
+        "Kompletny baner zgód RODO / cookies zgodny z polskimi przepisami"
+      ],
+      "recommendations": [
+        {
+          "title": "Wdrożenie nowoczesnego serwisu One-Page w architekturze Tailwind CSS",
+          "details": "Przebudowa witryny na lekki kod statyczny eliminujący błędy CMS i ładujący się poniżej 0.4s na każdym urządzeniu.",
+          "expectedResult": "Zmniejszenie współczynnika odrzuceń na smartfonach o min. 40%."
+        },
+        {
+          "title": "Wdrożenie pływającego modułu Sticky CTA i bezpośredniego połączenia telefonicznego",
+          "details": "Stały przycisk kontaktu w zasięgu kciuka na ekranach telefonów oraz 1-klikowy formularz kontaktowy.",
+          "expectedResult": "Wzrost liczby bezpośrednich telefonów i zapytań o ofertę o min. 35-50%."
+        },
+        {
+          "title": "Migracja na bezpłatną infrastrukturę chmurową (Serverless Edge)",
+          "details": "Uruchomienie strony na globalnej sieci CDN z automatycznym certyfikatem SSL HTTPS i 0 zł miesięcznych opłat za serwer.",
+          "expectedResult": "Oszczędność 600 – 900 zł rocznie względem tradycyjnych hostingów agencyjnych."
+        }
+      ],
+      "analyzedAt": "2026-10-12T11:48:04.792Z"
+    },
+    "outreachSubject": "Klinika Stomatologiczna DentaMed – krótka obserwacja techniczna strony (i przygotowane demo)",
+    "outreachBody": "Dzień dobry,\n\nNazywam się Jan Kowalski i pomagam lokalnym gabinetom stomatologicznym w Poznaniu pozyskiwać więcej pacjentów bezpośrednio ze smartfonów.\n\nTrafiłem na stronę Kliniki DentaMed (dentamed.pl) i przeprowadziłem krótki audyt techniczny DOM & CRO. Zauważyłem, że pomimo świetnej renomy, obecna witryna traci potencjalnych pacjentów przez brak pływającego przycisku szybkiego kontaktu (Click-to-Call) na telefonach komórkowych.\n\nPonad 70% pacjentów z bólem zęba szuka pomocy z telefonu. W takich sytuacjach brak bezpośredniego przycisku połączenia sprawia, że pacjent natychmiast wraca do Google i dzwoni do innego gabinetu w Poznaniu.\n\nZamiast tylko o tym opowiadać, przygotowałem dla Państwa bezpłatny, w pełni działający projekt nowoczesnej strony One-Page w technologii Tailwind CSS:\n👉 [LINK_DO_DEMO]\n\nMogą go Państwo sprawdzić na telefonie i komputerze bez żadnych zobowiązań. Jeśli propozycja się spodoba, możemy wdrożyć stronę na Państwa domenie w 48 godzin za ułamek stawek tradycyjnych agencji (bez opłat abonamentowych za serwer).\n\nCzy moglibyśmy zamienić dosłownie 5 minut przez telefon w tym tygodniu?\n\nPozdrawiam serdecznie,\nJan Kowalski — Web Developer",
+    "outreachFollowUp1": "Dzień dobry,\n\nNawiązując do mojej wiadomości sprzed 3 dni odnośnie strony Klinika Stomatologiczna DentaMed — czy udało się Państwu rzucić okiem na przygotowaną makietę demo ([LINK_DO_DEMO])?\n\nWdrożenie nowoczesnego One-Page w Państwa branży w mieście Poznań pozwala odzyskać szacunkowo nawet 4 800 - 8 500 zł miesięcznie w postaci zapytań, które dziś uciekają do konkurencji.\n\nChętnie odpowiem na wszelkie pytania lub wprowadzę ewentualne poprawki do projektu.\n\nPozdrawiam,\nJan Kowalski — Web Developer",
+    "outreachFollowUp2": "Dzień dobry,\n\nKrótka informacja ode mnie — rozumiem, że grafik w klinice bywa bardzo napięty, więc to moja ostatnia wiadomość w sprawie projektu strony dla Kliniki DentaMed.\n\nJeśli temat odświeżenia strony i zwiększenia liczby pacjentów będzie aktualny w przyszłości, projekt demo pozostawiam do Państwa dyspozycji pod adresem: [LINK_DO_DEMO].\n\nW razie pytań pozostaję pod telefonem.\n\nPozdrawiam i życzę samych sukcesów,\nJan Kowalski — Web Developer",
+    "roiEstimate": {
+      "monthlyLostRevenue": "4 800 - 8 500 PLN",
+      "lostClientsPerMonth": "12 - 20 klientów",
+      "projectedAnnualGain": "+28 000 PLN / rok"
+    },
+    "pricingPackages": {
+      "start": {
+        "name": "Pakiet Mini / Start (Wdrożenie w 48h)",
+        "price": "890 PLN",
+        "features": [
+          "Nowoczesna strona One-Page w Tailwind CSS",
+          "100% responsywność na smartfony i tablety",
+          "Darmowy hosting w chmurze (0 zł opłat miesięcznych!)",
+          "Certyfikat SSL i podpięcie domeny .pl",
+          "Czas realizacji: 48h"
+        ]
+      },
+      "business": {
+        "name": "Pakiet Standard (Bestseller)",
+        "price": "1 490 PLN",
+        "features": [
+          "Wszystko z pakietu Start",
+          "Pływające przyciski szybkiego kontaktu na mobile (Sticky CTA)",
+          "Interaktywny formularz kontaktowy z powiadomieniami",
+          "Sekcja opinii klientów z Google i mapa dojazdu",
+          "Optymalizacja szybkości (ładowanie < 0.5s)",
+          "Zgodność z RODO i baner cookies"
+        ]
+      },
+      "vip": {
+        "name": "Pakiet Kompleksowy + Opieka",
+        "price": "2 190 PLN",
+        "features": [
+          "Wszystko z pakietu Standard",
+          "Dedykowany perswazyjny copywriting bez szablonów",
+          "Konfiguracja firmowej skrzynki pocztowej w domenie",
+          "Paczka metatagów SEO i indeksacja w Google",
+          "Opcjonalna miesięczna opieka techniczna: 89 PLN / mc",
+          "30 dni bezpłatnej gwarancji wsparcia"
+        ]
+      }
+    },
+    "supportWarrantyDays": 30,
+    "demoSitePrompt": "Styl Premium Dark, sekcja cennika implantologii i stomatologii zachowawczej, opinie Google 4.9★",
+    "demoSiteHtml": "<!DOCTYPE html>\n<html lang=\"pl\" class=\"scroll-smooth\">\n<head>\n  <meta charset=\"UTF-8\" />\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n  <title>Klinika Stomatologiczna DentaMed — Stomatologia Poznań | Oficjalna Witryna</title>\n  <meta name="description" content="Klinika Stomatologiczna DentaMed w Poznaniu. Kompleksowa stomatologia estetyczna, implanty, bezbolesne leczenie i szybkie terminy." />\n  <script src=\"https://cdn.tailwindcss.com\"></script>\n  <link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n  <link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n  <link href=\"https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap\" rel=\"stylesheet\">\n  <style> body { font-family: 'Plus Jakarta Sans', sans-serif; } </style>\n  <script type=\"application/ld+json\">\n  {\n    \"@context\": \"https://schema.org\",\n    \"@type\": \"Dentist\",\n    \"name\": \"Klinika Stomatologiczna DentaMed\",\n    \"telephone\": \"+48 61 800 90 90\",\n    \"address\": {\n      \"@type\": \"PostalAddress\",\n      \"streetAddress\": \"ul. Dąbrowskiego 45\",\n      \"addressLocality\": \"Poznań\",\n      \"addressCountry\": \"PL\"\n    },\n    \"aggregateRating\": {\n      \"@type\": \"AggregateRating\",\n      \"ratingValue\": \"4.9\",\n      \"reviewCount\": \"84\"\n    }\n  }\n  </script>\n</head>\n<body class=\"bg-slate-950 text-slate-100 antialiased selection:bg-indigo-500 selection:text-white pb-20 md:pb-0\">\n  <div class=\"bg-indigo-950/80 border-b border-indigo-500/20 text-xs py-2 px-4\">\n    <div class=\"max-w-6xl mx-auto flex flex-wrap items-center justify-between gap-2 text-indigo-200\">\n      <div>📍 ul. Dąbrowskiego 45, Poznań • 🕒 Pon-Pt: 08:00–20:00, Sob: 09:00–14:00</div>\n      <div class=\"font-semibold text-amber-400\">★ 4.9/5 w Google Maps (84 opinie)</div>\n    </div>\n  </div>\n  <header class=\"sticky top-0 z-40 bg-slate-950/90 backdrop-blur-md border-b border-slate-800/80\">\n    <div class=\"max-w-6xl mx-auto px-4 h-20 flex items-center justify-between\">\n      <div class=\"flex items-center gap-3\">\n        <div class=\"h-10 w-10 rounded-xl bg-gradient-to-tr from-indigo-600 to-purple-500 flex items-center justify-center font-extrabold text-white text-lg shadow-lg\">D</div>\n        <div>\n          <span class=\"font-extrabold text-lg text-white block leading-none\">DentaMed Poznań</span>\n          <span class=\"text-xs text-slate-400\">Klinika Stomatologiczna</span>\n        </div>\n      </div>\n      <div class=\"flex items-center gap-3\">\n        <a href=\"tel:+48618009090\" class=\"hidden sm:inline-flex items-center gap-2 rounded-xl border border-slate-700 bg-slate-900 px-4 py-2.5 text-xs font-bold text-white hover:border-indigo-500 transition\">📞 +48 61 800 90 90</a>\n        <a href=\"#kontakt\" class=\"inline-flex items-center gap-2 rounded-xl bg-indigo-600 px-5 py-2.5 text-xs font-bold text-white shadow-lg hover:bg-indigo-500 transition\">Umów wizytę</a>\n      </div>\n    </div>\n  </header>\n  <section class=\"py-20 max-w-6xl mx-auto px-4 grid lg:grid-cols-12 gap-12 items-center\">\n    <div class=\"lg:col-span-7 space-y-6\">\n      <span class=\"inline-flex items-center gap-2 rounded-full border border-indigo-500/30 bg-indigo-500/10 px-3.5 py-1.5 text-xs font-semibold text-indigo-300\">Nowoczesna Stomatologia Bez Bólu</span>\n      <h1 class=\"text-4xl sm:text-5xl font-extrabold text-white leading-tight\">Zdrowy i piękny uśmiech <span class=\"text-transparent bg-clip-text bg-gradient-to-r from-indigo-400 to-purple-400\">w sercu Poznania</span>.</h1>\n      <p class=\"text-slate-300 text-base leading-relaxed\">Zapewniamy bezstresowe leczenie, natychmiastową pomoc przy bólu zęba i najwyższy standard opieki stomatologicznej.</p>\n      <div class=\"flex flex-col sm:flex-row gap-3 pt-2\">\n        <a href=\"#kontakt\" class=\"rounded-2xl bg-indigo-600 px-7 py-4 text-sm font-bold text-white shadow-xl hover:bg-indigo-500 text-center\">Zarezerwuj wizytę online →</a>\n        <a href=\"tel:+48618009090\" class=\"rounded-2xl border border-slate-700 bg-slate-900 px-7 py-4 text-sm font-bold text-white text-center\">📞 Zadzwoń: +48 61 800 90 90</a>\n      </div>\n    </div>\n    <div class=\"lg:col-span-5 rounded-3xl border border-slate-800 bg-slate-900 p-6 sm:p-8 shadow-2xl\">\n      <h2 class=\"text-lg font-bold text-white mb-2\">Umów wizytę w 60 sekund</h2>\n      <p class=\"text-xs text-slate-400 mb-4\">Oddzwaniamy w 15 minut i potwierdzamy termin.</p>\n      <form onsubmit=\"event.preventDefault(); alert('Dziękujemy! Skontaktujemy się telefonicznie.');\" class=\"space-y-3\">\n        <input type=\"text\" placeholder=\"Imię i nazwisko\" required class=\"w-full rounded-xl border border-slate-700 bg-slate-950 px-4 py-3 text-sm text-white\" />\n        <input type=\"tel\" placeholder=\"Numer telefonu\" required class=\"w-full rounded-xl border border-slate-700 bg-slate-950 px-4 py-3 text-sm text-white\" />\n        <button type=\"submit\" class=\"w-full rounded-xl bg-indigo-600 py-3 text-sm font-bold text-white\">Zatwierdź zgłoszenie</button>\n      </form>\n    </div>\n  </section>\n  <footer class=\"py-8 border-t border-slate-900 text-center text-xs text-slate-500\">© 2026 Klinika Stomatologiczna DentaMed Poznań. Wszelkie prawa zastrzeżone.</footer>\n  <div class=\"fixed bottom-0 inset-x-0 z-50 md:hidden bg-slate-950/95 border-t border-slate-800 p-3 flex gap-2.5\">\n    <a href=\"tel:+48618009090\" class=\"flex-1 rounded-xl bg-emerald-600 py-3 text-xs font-bold text-white text-center\">📞 Zadzwoń teraz</a>\n    <a href=\"#kontakt\" class=\"flex-1 rounded-xl bg-indigo-600 py-3 text-xs font-bold text-white text-center\">Umów wizytę</a>\n  </div>\n</body>\n</html>"
+  },
+  {
+    "id": "lead_gdansk_lipami_01",
+    "name": "Gabinet Pod Lipami - lek. dent.",
+    "website": "http://www.stomatologgdansk.eu",
+    "address": "ul. Bernarda Chrzanowskiego 33, 80-278 Gdańsk",
+    "phone": "+48 58 556 01 61",
+    "googleRating": "5.0 ★ (22 opinie)",
+    "industry": "Stomatologia",
+    "city": "Gdańsk",
+    "notes": "Praktyka świadcząca usługi ze stomatologii zachowawczej i estetycznej w Gdańsku. Strona bez certyfikatu SSL, nieczytelna na smartfonach.",
+    "status": "Oferta gotowa",
+    "createdAt": "2026-10-12T07:00:00.000Z",
+    "updatedAt": "2026-10-12T07:00:00.000Z",
+    "audit": {
+      "score": 36,
+      "metrics": {
+        "design": 35,
+        "seo": 42,
+        "conversion": 28,
+        "speed": 40
+      },
+      "executiveSummary": "Obecna witryna stomatologgdansk.eu nie posiada szyfrowania SSL (protokół HTTP) oraz nie dysponuje responsywnym widokiem na smartfony. Pacjenci z Gdańska szukający pomocy z telefonu natychmiast wracają do wyszukiwarki.",
+      "issues": [
+        {
+          "title": "Brak certyfikatu SSL (ostrzeżenie 'Niezabezpieczona' w Chrome)",
+          "severity": "Wysoka",
+          "impact": "Budzi niepokój pacjentów i obniża pozycję w wyszukiwarce Google."
+        },
+        {
+          "title": "Brak pływającego przycisku Zadzwoń (Sticky CTA)",
+          "severity": "Wysoka",
+          "impact": "Pacjent z bólem zęba nie ma natychmiastowej możliwości połączenia z rejestracją."
+        },
+        {
+          "title": "Niedostosowanie do ekranów smartfonów",
+          "severity": "Średnia",
+          "impact": "Trudno odczytać ofertę i godziny przyjęć bez powiększania ekranu."
+        }
+      ],
+      "missingElements": [
+        "Pływający przycisk Click-to-Call na dole ekranu telefonu",
+        "Formularz szybkiej prośby o kontakt",
+        "Certyfikat SSL HTTPS",
+        "Sekcja referencji z Google Maps z oceną 5.0★"
+      ],
+      "recommendations": [
+        {
+          "title": "Przebudowa na ultralekki One-Page w Tailwind CSS",
+          "details": "Błyskawiczne ładowanie poniżej 0.5s i automatyczny darmowy certyfikat SSL.",
+          "expectedResult": "Wzrost bezpośrednich połączeń z telefonu o min. 40%."
+        }
+      ],
+      "analyzedAt": "2026-10-12T07:00:00.000Z"
+    },
+    "outreachSubject": "Gabinet Pod Lipami – krótka uwaga o pacjentach z telefonów w Gdańsku",
+    "outreachBody": "Dzień dobry,\n\nNazywam się Jan Kowalski i zajmuję się tworzeniem nowoczesnych stron internetowych dla lokalnych gabinetów medycznych w Trójmieście.\n\nTrafiłem na stronę Gabinetu Pod Lipami (stomatologgdansk.eu) i zauważyłem, że przeglądarki oznaczają ją jako 'Niezabezpieczoną' z powodu braku certyfikatu SSL, a układ strony nie dopasowuje się do ekranów smartfonów.\n\nPonad 70% pacjentów szuka pomocy stomatologicznej z poziomu telefonu — w takich momentach decydujący jest jeden klik w 'Zadzwoń do rejestracji'.\n\nAby nie mówić tylko o teorii, przygotowałem dla Państwa bezpłatny, w pełni działający projekt nowej strony One-Page pod adresem:\n👉 [LINK_DO_DEMO]\n\nProjekt można sprawdzić bez żadnych zobowiązań. Jeśli uznają Państwo, że warto go uruchomić z Państwa domeną, koszt wdrożenia pod klucz to zaledwie 1 490 zł (bez żadnych opłat abonamentowych za serwer).\n\nPozdrawiam serdecznie,\nJan Kowalski — Web Developer",
+    "outreachFollowUp1": "Dzień dobry,\n\nKrótkie pytanie z mojej strony — czy udało się Państwu rzucić okiem na przygotowany projekt nowej strony dla Gabinetu Pod Lipami ([LINK_DO_DEMO])?\n\nChętnie odpowiem na wszelkie pytania.\n\nPozdrawiam,\nJan Kowalski — Web Developer",
+    "outreachFollowUp2": "Dzień dobry,\n\nTo moja ostatnia wiadomość, aby nie przeszkadzać w pracy gabinetu. Projekt demonstracyjny pozostawiam pod linkiem: [LINK_DO_DEMO].\n\nW razie potrzeby odświeżenia witryny w przyszłości, pozostaję do dyspozycji.\n\nPozdrawiam,\nJan Kowalski — Web Developer",
+    "roiEstimate": {
+      "monthlyLostRevenue": "4 200 - 7 800 PLN",
+      "lostClientsPerMonth": "8 - 14 pacjentów",
+      "projectedAnnualGain": "+32 000 PLN / rok"
+    },
+    "pricingPackages": {
+      "start": {
+        "name": "Pakiet Mini / Start (Wdrożenie w 48h)",
+        "price": "890 PLN",
+        "features": [
+          "Nowoczesna strona One-Page w Tailwind CSS",
+          "100% responsywność na smartfony",
+          "Darmowy hosting w chmurze (0 zł opłat!)",
+          "Certyfikat SSL i podpięcie domeny .pl",
+          "Czas realizacji: 48h"
+        ]
+      },
+      "business": {
+        "name": "Pakiet Standard (Bestseller)",
+        "price": "1 490 PLN",
+        "features": [
+          "Wszystko z pakietu Start",
+          "Pływający przycisk Zadzwoń (Sticky CTA)",
+          "Interaktywny formularz kontaktowy",
+          "Sekcja opinii klientów z Google i mapa dojazdu",
+          "Optymalizacja szybkości (<0.5s)",
+          "Zgodność z RODO i baner cookies"
+        ]
+      },
+      "vip": {
+        "name": "Pakiet Kompleksowy + Opieka",
+        "price": "2 190 PLN",
+        "features": [
+          "Wszystko z pakietu Standard",
+          "Dedykowany perswazyjny copywriting",
+          "Konfiguracja firmowej poczty w domenie",
+          "Paczka metatagów SEO i indeksacja w Google",
+          "Opcjonalna miesięczna opieka: 149 PLN / mc"
+        ]
+      }
+    },
+    "supportWarrantyDays": 30,
+    "demoSitePrompt": "Jasny i przejrzysty styl medyczny z akcentem morskim (Gdańsk), mapa dojazdu, certyfikaty",
+    "demoSiteHtml": "<!DOCTYPE html>\n<html lang=\"pl\" class=\"scroll-smooth\">\n<head>\n  <meta charset=\"UTF-8\" />\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n  <title>Gabinet Pod Lipami — Stomatologia Gdańsk</title>\n  <meta name=\"description\" content=\"Gabinet Stomatologiczny Pod Lipami w Gdańsku. Profesjonalna opieka stomatologiczna dla dzieci i dorosłych.\" />\n  <script src=\"https://cdn.tailwindcss.com\"></script>\n  <link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n  <link href=\"https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap\" rel=\"stylesheet\">\n  <style> body { font-family: 'Plus Jakarta Sans', sans-serif; } </style>\n</head>\n<body class=\"bg-slate-950 text-slate-100 antialiased pb-20 md:pb-0\">\n  <header class=\"sticky top-0 z-40 bg-slate-950/90 backdrop-blur-md border-b border-slate-800\">\n    <div class=\"max-w-6xl mx-auto px-4 h-20 flex items-center justify-between\">\n      <div class=\"font-bold text-lg text-white\">Gabinet Pod Lipami <span class=\"text-xs text-indigo-400 block font-normal\">Gdańsk Wrzeszcz</span></div>\n      <a href=\"tel:+48585560161\" class=\"rounded-xl bg-indigo-600 px-4 py-2 text-xs font-bold text-white\">📞 58 556 01 61</a>\n    </div>\n  </header>\n  <main class=\"max-w-6xl mx-auto px-4 py-16 text-center space-y-6\">\n    <span class=\"rounded-full bg-indigo-500/10 border border-indigo-500/30 px-3 py-1 text-xs text-indigo-300\">Kompleksowa Opieka Stomatologiczna</span>\n    <h1 class=\"text-4xl sm:text-5xl font-black text-white\">Doświadczenie, spokój i <span class=\"text-indigo-400\">bezbolesne leczenie</span>.</h1>\n    <p class=\"text-slate-300 max-w-xl mx-auto text-sm leading-relaxed\">Od ponad 15 lat dbamy o zdrowe uśmiechy mieszkańców Gdańska przy ul. Bernarda Chrzanowskiego 33.</p>\n    <div class=\"pt-4 flex justify-center gap-4\">\n      <a href=\"tel:+48585560161\" class=\"rounded-xl bg-indigo-600 px-6 py-3 text-sm font-bold text-white\">Zadzwoń do rejestracji</a>\n    </div>\n  </main>\n  <footer class=\"py-8 border-t border-slate-900 text-center text-xs text-slate-500\">© 2026 Gabinet Pod Lipami Gdańsk.</footer>\n  <div class=\"fixed bottom-0 inset-x-0 z-50 md:hidden bg-slate-950/95 border-t border-slate-800 p-3 flex gap-2.5\">\n    <a href=\"tel:+48585560161\" class=\"flex-1 rounded-xl bg-emerald-600 py-3 text-xs font-bold text-white text-center\">📞 Zadzwoń do gabinetu</a>\n  </div>\n</body>\n</html>"
+  },
+  {
+    "id": "lead_gdansk_warsztat_04",
+    "name": "Auto Serwis Dzikowski",
+    "website": "https://warsztatgdansk.pl",
+    "address": "ul. Warszawska 80, 80-180 Gdańsk",
+    "phone": "+48 501 042 515",
+    "industry": "Mechanika pojazdowa",
+    "city": "Gdańsk",
+    "googleRating": "4.8 ★ (120 opinii)",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Auto%20Serwis%20Dzikowski%20ul.%20Warszawska%2080%2C%2080-180%20Gda%C5%84sk",
+    "googleSearchUrl": "https://www.google.com/search?q=Auto%20Serwis%20Dzikowski%20Gda%C5%84sk",
+    "notes": "Renomowany serwis mechaniczny w Gdańsku. Kierowcy po awarii szukają pomocy na telefonie — brak bezpośredniego przycisku Zadzwoń na pierwszym ekranie obecnej strony.",
+    "status": "Nowy",
+    "createdAt": "2026-10-12T07:30:00.000Z",
+    "updatedAt": "2026-10-12T07:30:00.000Z",
+    "audit": null,
+    "supportWarrantyDays": 30
+  },
+  {
+    "id": "lead_warszawa_novalex_05",
+    "name": "Kancelaria Prawna NovaLex",
+    "website": "https://novalex-kancelaria.pl",
+    "address": "ul. Marszałkowska 84, 00-514 Warszawa",
+    "phone": "+48 22 415 20 30",
+    "industry": "Kancelaria Prawna",
+    "city": "Warszawa",
+    "googleRating": "4.9 ★ (65 opinii)",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kancelaria%20Prawna%20NovaLex%20ul.%20Marsza%C5%82kowska%2084%2C%2000-514%20Warszawa",
+    "googleSearchUrl": "https://www.google.com/search?q=Kancelaria%20Prawna%20NovaLex%20Warszawa",
+    "notes": "Doradztwo prawne dla firm i osób fizycznych w Warszawie. Potencjał na elegancki landing page zorientowany na szybkie konsultacje prawne online.",
+    "status": "Nowy",
+    "createdAt": "2026-10-12T08:00:00.000Z",
+    "updatedAt": "2026-10-12T08:00:00.000Z",
+    "audit": null,
+    "supportWarrantyDays": 30
+  }
+]
